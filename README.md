@@ -5,7 +5,7 @@
 - To install hydra in Kali Linux, you can use the following command:
 
 ```
-sudo apt-get install hydra
+sudo apt install hydra
 ```
 
 ### Usage
